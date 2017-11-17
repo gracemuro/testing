@@ -1,0 +1,45 @@
+import java.util.Scanner;
+
+public class HiddenWord
+{
+    private int length;
+    private String puzzle = new String();
+    private String guess = new String();
+    public HiddenWord()
+    {
+        length = 5;
+        String puzzle = new String("GRACE");
+        
+        // scanner 
+        Scanner keyboard = new Scanner(System.in);
+        System.out.println("Enter your guess");
+        String guess = keyboard.nextLine();
+        
+        
+    }
+   
+    public String getHint()
+    {
+        for(int i = 0; i < guess.length(); i++)
+        {
+            if(guess.charAt(i).equals("G") || guess.charAt(i).equals(R) 
+            || guess.charAt(i).equals(A) || guess.charAt(i).equals(C)
+            || guess.charAt(i).equals(E))
+            {
+                
+                
+                
+                
+            }
+           
+            
+        }
+        
+        
+        
+        
+        
+        
+        
+    }
+}
