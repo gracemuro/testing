@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Change
+comment1.params=ammt\ cns\ blls
+comment1.target=Change(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getCost()
+comment3.params=
+comment3.target=double\ getMoneyLeft()
+numComments=4
