@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RandomStringChooser
+comment1.params=inRand
+comment1.target=RandomStringChooser(java.util.ArrayList)
+comment2.params=
+comment2.target=java.lang.String\ getNext2()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
