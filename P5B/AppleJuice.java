@@ -21,4 +21,9 @@ public class AppleJuice extends Juice
     
     
     
+    public String toString()
+    {
+    
+        return "Name: " + getName() + " calories" + getCalories();
+    }
 }

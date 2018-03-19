@@ -22,5 +22,10 @@ public class GrapeJuice extends Juice
     }
     
     
+    public String toString()
+    {
+    
+        return "Name: " + getName() + " calories" + getCalories();
+    }
     
 }
