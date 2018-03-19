@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Array1
+comment1.params=aa1
+comment1.target=Array1(int[])
+comment2.params=aa2
+comment2.target=Array1(int[][])
+comment3.params=a1
+comment3.target=int\ arraySum(int[])
+numComments=4
